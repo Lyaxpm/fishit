@@ -1,1 +1,1 @@
-local script = game:HttpGet("https://raw.githubusercontent.com/fachriaziz/fishit/main/hz_fishit.lua") loadstring(script)()
+local script = game:HttpGet("https://raw.githubusercontent.com/Lyaxpm/fishit/refs/heads/main/v2.lua") loadstring(script)()
